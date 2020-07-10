@@ -1,0 +1,20 @@
+﻿<html>
+	<head>
+	<link rel="stylesheet" href="css/TimeSlider.css">
+	<script src="jquery-2.2.3.min.js"></script>
+	<script src="js/TimeSlider.js"></script>
+	</head>
+
+	<body style="background-color: rgba(0,0,0,0.45);">
+		<div class="timeslider" style="position: relative;left: 100px;top: 300px;width:80%;height:100px;">
+		</div>
+	</body>
+	<script>
+		var param={};
+		param.num=5;
+		$(".timeslider").TimeSlider(param,clickback);
+		function clickback(time){
+			//TODO your code
+		};
+	</script>
+</html>
