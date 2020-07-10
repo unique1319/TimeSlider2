@@ -17,5 +17,6 @@
 
 ## 另一款时间轴 ##
 这里还有另一款时间轴，可以对一个时段滑动。两个时间轴应用于不同的使用场景。
-### [github](https://github.com/unique1319/TimeSlider) ###
+ 
+ [github 地址](https://github.com/unique1319/TimeSlider)
 ### [Demo](https://unique1319.github.io/TimeSlider/annoy/annoy.html) ###
